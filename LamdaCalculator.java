@@ -6,7 +6,7 @@ interface Multiple {
     int mul(int x, int y);
 }
 
-public class LamdaExample4 {
+public class LamdaCalculator {
     public static void main(String[] args) {
         Addable a1=(a,b)->(a+b);//parameters without data type
         System.out.println(a1.add(10, 20));

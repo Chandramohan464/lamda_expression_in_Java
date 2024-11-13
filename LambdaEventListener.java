@@ -1,7 +1,7 @@
 import javax.swing.JButton;  
 import javax.swing.JFrame;  
 import javax.swing.JTextField;  
-public class LambdaEventListenerExample {  
+public class LambdaEventListener {  
     public static void main(String[] args) {  
         JTextField tf=new JTextField();  
         tf.setBounds(50, 50,150,20);  

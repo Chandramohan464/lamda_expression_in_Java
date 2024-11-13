@@ -2,7 +2,7 @@ interface Drawable{
     void draw();
 }
 
-public class LamdaExample1 {
+public class LamdaExample {
     public static void main(String[] args) {
         int width=10;
 
